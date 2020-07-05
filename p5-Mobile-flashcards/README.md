@@ -1,6 +1,6 @@
 # Mobile flashCards React-Native App
 
-Mobile FlashCards project-app is a part of Udacity-React-Nanodegree program.
+Mobile FlashCards project-App is a part of Udacity-React-Nanodegree program.
 
 This React Native app allows users to create decks and questions to quiz. and also give the final score and set to reset naviagte the quiz.
 
