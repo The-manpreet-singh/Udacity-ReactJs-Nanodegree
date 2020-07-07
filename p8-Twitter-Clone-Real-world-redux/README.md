@@ -4,4 +4,4 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 ## Project Setup
 
-- install the dependencies - `npm install`
+- install the dependencies - `npm install` or `yarn install`
