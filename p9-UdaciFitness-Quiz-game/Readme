@@ -1,0 +1,6 @@
+for apk file
+
+commands-
+npm install -g exp
+exp build:android
+exp build:status
