@@ -1,5 +1,27 @@
-# All React developer nanodegree program Projects
+# Udacity Front-End Web Developer Nano-degree Program Project
 
-## Create React App
+All Udacity FrontEnd Web Developer projects which are created by me with clean code
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+![Udacity Front End Nanodegree](https://github.com/The-manpreet-singh/Udacity-FrontEnd-web-developer-NanoDegree-Program/blob/master/Front-end%20Developer%20certificate.jpg "Manpreet Singh")
+
+![Udacity Front End Nanodegree](https://github.com/The-manpreet-singh/Udacity-FrontEnd-web-developer-NanoDegree-Program/blob/master/Udacity%20Graduate.png "Manpreet Singh")
+
+##Projects:-
+
+- P1 - Personal Web Blog
+- P2 - Landing Page
+- P3 - Weather Journal app
+- P4 - Evaluate a News Article with Natural Language
+- P5 - Improve your linkedin profile
+- P6 - Improve your github profile
+- P7 - FEND-Capstone-Travel-App
+
+##Courses
+
+- HTML5
+- CSS, Website Layout, Website
+- JavaScript & The Dom
+- Web API'S & Asynchronous Applications
+- Build Tools and Single Page Web Apps
+- career services
+- Capstone (4 APIS used)
