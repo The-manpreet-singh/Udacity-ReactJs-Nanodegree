@@ -2,9 +2,9 @@
 
 All Udacity FrontEnd Web Developer projects which are created by me with clean code
 
-![Udacity Front End Nanodegree](https://github.com/The-manpreet-singh/Udacity-FrontEnd-web-developer-NanoDegree-Program/blob/master/react-developer-certificate.jpg "Manpreet Singh")
+![Udacity Front End Nanodegree](https://github.com/The-manpreet-singh/Udacity-ReactJs-Nanodegree/blob/master/react-developer-certificate.jpg "Manpreet Singh")
 
-![Udacity Front End Nanodegree](https://github.com/The-manpreet-singh/Udacity-FrontEnd-web-developer-NanoDegree-Program/blob/master/Udacity%20Graduate.png "Manpreet Singh")
+![Udacity Front End Nanodegree](https://github.com/The-manpreet-singh/Udacity-ReactJs-Nanodegree/blob/master/Udacity%20Graduate.png "Manpreet Singh")
 
 ##Projects:-
 
