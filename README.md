@@ -8,20 +8,20 @@ All Udacity React-developer projects which are created by me with clean code
 
 ##Projects:-
 
-- P1 - Personal Web Blog
-- P2 - Landing Page
-- P3 - Weather Journal app
-- P4 - Evaluate a News Article with Natural Language
-- P5 - Improve your linkedin profile
-- P6 - Improve your github profile
-- P7 - FEND-Capstone-Travel-App
+- P1 - Myread-Books-tracking-app
+- P2 - improve linkedin profile
+- P3 - improve github profile
+- P4 - would-you-rather-app
+- P5 - Mobile-flashcards
+- P6 - To-do-react-redux
+- P7 - React-contacts-creates
+- P8 - Twitter-Clone-Real-world-app
+- P9 - UdaciFitness-mobile-app
 
 ##Courses
 
-- HTML5
-- CSS, Website Layout, Website
-- JavaScript & The Dom
-- Web API'S & Asynchronous Applications
-- Build Tools and Single Page Web Apps
-- career services
-- Capstone (4 APIS used)
+- COURSE-1: React fundamentals- Rendering UI with React, State Management, Render UI with External Data, Manage App Location with React Router.
+
+- COURSE-2: Redux and React- Managing State, UI + Redux, Redux Middleware, Redux with React, Asynchronous Redux, React Redux, Real World Redux.
+
+- COURSE-3: React-Native- Up and Running with React Native, React vs. React Native, Styling & Layout, Navigation, Native Features,
