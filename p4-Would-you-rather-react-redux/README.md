@@ -1,5 +1,7 @@
 # Would You Rather Project
 
+## Live-url- https://would-you-rather-by-manpreet.netlify.app/
+
 ## project rules: https://review.udacity.com/#!/rubrics/1567/view
 
 This is the final assessment project for Udacity's React - Redux course. This app a web app that lets a user play the “Would You Rather?” questions answer game. In this project, I'm using react and redux functionality, improving the predictability of the application’s state; establish rules for getting and updating the store; and identify what state should live inside of Redux and what state should live inside of React components.
