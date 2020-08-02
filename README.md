@@ -6,6 +6,14 @@ All Udacity React-developer projects which are created by me with clean code
 
 ![Udacity React-developer Nanodegree](https://github.com/The-manpreet-singh/Udacity-ReactJs-Nanodegree/blob/master/Udacity%20Graduate.png "Manpreet Singh")
 
+##Courses
+
+- COURSE-1: React fundamentals- Rendering UI with React, State Management, Render UI with External Data, Manage App Location with React Router.
+
+- COURSE-2: Redux and React- Managing State, UI + Redux, Redux Middleware, Redux with React, Asynchronous Redux, React Redux, Real World Redux.
+
+- COURSE-3: React-Native- Up and Running with React Native, React vs. React Native, Styling & Layout, Navigation, Native Features,
+
 ##Projects:-
 
 - P1 - Myread-Books-tracking-app
@@ -18,10 +26,14 @@ All Udacity React-developer projects which are created by me with clean code
 - P8 - Twitter-Clone-Real-world-app
 - P9 - UdaciFitness-mobile-app
 
-##Courses
+##Live URL'S:-
 
-- COURSE-1: React fundamentals- Rendering UI with React, State Management, Render UI with External Data, Manage App Location with React Router.
-
-- COURSE-2: Redux and React- Managing State, UI + Redux, Redux Middleware, Redux with React, Asynchronous Redux, React Redux, Real World Redux.
-
-- COURSE-3: React-Native- Up and Running with React Native, React vs. React Native, Styling & Layout, Navigation, Native Features,
+- P1 - 
+- P2 - 
+- P3 - 
+- P4 - 
+- P5 - 
+- P6 -
+- P7 - 
+- P8 -
+- P9 - 
