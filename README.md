@@ -32,7 +32,7 @@ All Udacity React-developer projects which are created by me with clean code
 - P2 -  https://www.linkedin.com/in/manpreet-singh-027199181/
 - P3 -  https://github.com/The-manpreet-singh/
 - P4 -  https://would-you-rather-by-manpreet.netlify.app/
-- P5 - 
+- P5 -  use expo 
 - P6 -
 - P7 - 
 - P8 -
