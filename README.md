@@ -30,7 +30,7 @@ All Udacity React-developer projects which are created by me with clean code
 
 - P1 -  https://books-tracking-by-manpreet.netlify.app/
 - P2 -  https://www.linkedin.com/in/manpreet-singh-027199181/
-- P3 - 
+- P3 -  https://github.com/The-manpreet-singh/
 - P4 - 
 - P5 - 
 - P6 -
