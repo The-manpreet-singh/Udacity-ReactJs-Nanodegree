@@ -2,7 +2,7 @@
 
 All Udacity React-developer projects which are created by me with clean code
 
-![Udacity React-developer Nanodegree](https://github.com/The-manpreet-singh/Udacity-ReactJs-Nanodegree/blob/master/react-developer-certificate.jpg "Manpreet Singh")
+![Udacity React-developer Nanodegree](https://github.com/The-manpreet-singh/Udacity-ReactJs-Nanodegree/blob/master/React-Redux-Certificate.JPG "Manpreet Singh")
 
 ![Udacity React-developer Nanodegree](https://github.com/The-manpreet-singh/Udacity-ReactJs-Nanodegree/blob/master/Udacity%20Graduate.png "Manpreet Singh")
 
