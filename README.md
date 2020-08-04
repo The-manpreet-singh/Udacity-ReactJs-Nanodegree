@@ -34,6 +34,6 @@ All Udacity React-developer projects which are created by me with clean code
 - P4 -  https://would-you-rather-by-manpreet.netlify.app/
 - P5 -  use expo 
 - P6 -  https://the-manpreet-singh.github.io/Todo-react-redux/
-- P7 - 
+- P7 -  yarn install & yarn start
 - P8 -
 - P9 - 
