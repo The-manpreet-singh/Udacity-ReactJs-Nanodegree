@@ -3,7 +3,7 @@
     "body-parser": "^1.18.3",
     "clone": "^2.1.1",
     "cors": "^2.8.3",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "license": "MIT",
   "repository": {
